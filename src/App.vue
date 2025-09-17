@@ -12,7 +12,8 @@
                         'Managed infrastructure and other administrative level tasks.',
                         'Saved the company in excess of $6,000 monthly in AWS.',
                         'Made product direction decisions with team.',
-                        'Worked directly with clients to get feature feedback.'
+                        'Worked directly with clients to get feature feedback.',
+                        'Maintained software until end of life after acquisition.',
                     ]"/>
       <experience company="Kalamazoo Valley Community College"
                   job="Senior Web Developer"
@@ -22,7 +23,8 @@
                         'Wrote and maintained web applications from scratch.',
                         'Defined CI/CD workflow with Github Actions/Docker.',
                         'Provisioned and defined web infrastructure.',
-                        'Lead project meetings for feature requirements.'
+                        'Lead project meetings for feature requirements.',
+                        'Worked with faculty/staff to determine product directions.'
                     ]"/>
     </div>
 
@@ -31,13 +33,11 @@
       <notable-project title="Hippo Manager 2.0"
                        client="Hippo Manager Software, Inc."
                        technologies="Vue.js, Laravel, SASS/SCSS, Tailwind CSS"
-                       description="Hippo Manager is a full suite of software for managing veterinary clinics/practices. This cloud-based software does everything you need to manage a veterinary business, billing, client management, scheduling, etc."
-                       link="https://www.nfrost.dev/hippo-manager"/>
+                       description="Hippo Manager is a full suite of software for managing veterinary clinics/practices. This cloud-based software does everything you need to manage a veterinary business, billing, client management, scheduling, etc."/>
       <notable-project title="Course Schedule"
                        client="Kalamazoo Valley Community College"
                        technologies="Vue.js, .NET, SASS/SCSS, Tailwind CSS"
-                       description="The Kalamazoo Valley Course Schedule is an application that displays for-credit courses offered at Kalamazoo Valley Community College; and allows users to filter results based on relevant criteria."
-                       link="https://www.nfrost.dev/kvcc-course-schedule"/>
+                       description="The Kalamazoo Valley Course Schedule is an application that displays for-credit courses offered at Kalamazoo Valley Community College; and allows users to filter results based on relevant criteria."/>
     </div>
 
     <h2>Skill Set</h2>
@@ -48,12 +48,12 @@
                  :skills="['Laravel/Lumen', '.NET', 'Vue/Nuxt', 'Hugo', 'Svelte', 'React']"/>
       <skill-set title="Infrastructure"
                  :skills="['Docker', 'Github Actions', 'Nginx', 'Apache', 'Firebase', 'Google Cloud Platform', 'Amazon Web Services']"/>
-      <skill-set title="CMS"
-                 :skills="['Prismic', 'Cockpit', 'WordPress', 'Drupal']"/>
+      <skill-set title="AI"
+                 :skills="['ChatGPT', 'Github Copilot']"/>
       <skill-set title="Data Analysis"
                  :skills="['Google Analytics', 'SEO', 'Database Normalization', 'Design Documentation']"/>
       <skill-set title="Applications"
-                 :skills="['JetBrains IDEs', 'Adobe Photoshop', 'Adobe Illustrator', 'Microsoft Office', 'Figma']"/>
+                 :skills="['JetBrains IDEs', 'VS Code', 'Microsoft Office', 'Figma']"/>
       <skill-set title="Dependencies"
                  :skills="['Git Submodules', 'Composer', 'NuGet', 'NPM']"/>
       <skill-set title="Platforms"

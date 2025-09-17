@@ -30,7 +30,7 @@
 
     .languages {
         font-weight: normal;
-        margin-top: 0.25rem;
+        margin-top: 0.375rem;
     }
 
     .description {
